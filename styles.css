@@ -14,14 +14,26 @@ input {
     padding: 0.6rem;
     border: solid #5f9341;
     margin-bottom: 0.25rem ;
-
 }
 
 button {
-background-color: #5f9341;
-color: white;
-padding: 0.6rem 1.25rem;
-border: none;
-font-weight: bold;
-
+    background-color: #5f9341;
+    color: white;
+    padding: 0.6rem 1.25rem;
+    border: none;
+    font-weight: bold;
 } 
+
+ul {
+    list-style: none;
+    padding: 0rem;
+    margin-top: 1.25rem;
+}
+
+li {
+    margin-top: 0.3rem;
+}
+
+a {
+    color:#5f9341
+}
